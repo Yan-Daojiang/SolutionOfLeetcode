@@ -37,7 +37,10 @@ class Solution {
                     else 
                         ++j;
                 }
-                ++i; ++j;
+                else if (first.charAt(i) == second.charAt(j)) {
+                    ++i; 
+                    ++j;
+                }
             } // while
             return true;
         } 
