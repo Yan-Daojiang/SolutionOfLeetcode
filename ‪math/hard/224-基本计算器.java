@@ -57,8 +57,8 @@ import java.util.LinkedList;
 class Solution {
     public int calculate(String s) {
         // 预处理
-        s = s.replace(" ", "");
-        s = s.replace("(-", "(0-");
+        s = s.replaceAll(" ", "");
+        s = s.replaceAll("\\(-", "(0-");
 
         Deque<Integer> num = new LinkedList<>();
         num.push(0);
