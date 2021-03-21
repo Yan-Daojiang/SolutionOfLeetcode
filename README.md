@@ -3,7 +3,7 @@
 
 
 
-为了更好地在各种环境下进行刷(mo)题 (yu)，并提交到Github上，这里使用了Vscode上的[leetcode插件](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode).配置与使用方法[参考](https://github.com/LeetCode-OpenSource/vscode-leetcode/)
+为了更好地在各种环境下进行刷(mo)题 (yu)，并提交到Github上，这里使用了Vscode上的[leetcode插件](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode).配置与使用方法[参考](https://github.com/LeetCode-OpenSource/vscode-leetcode/).
 
 
 
